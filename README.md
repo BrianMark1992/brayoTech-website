@@ -1,0 +1,1 @@
+This is my company's website, feel free to reach me out if there is any job you would like to get done, wheather in IT consultancy, software development, website development, networkig, just to mention a few, I will be at your service
