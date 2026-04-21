@@ -55,7 +55,7 @@ a:hover { color: var(--primary-light); }
     text-decoration: none;
 }
 .logo img{
-    height: 120px;
+    height: 50px;
     width: auto;
 }
 
